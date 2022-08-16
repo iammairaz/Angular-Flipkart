@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Md Mairaz",
+      "email": "merajmd457@gmail.com",
+      "password": "asdfgh",
+      "phone": 8961653109,
+      "id": 1
+    },
+    {
+      "fullname": "Trojan",
+      "email": "test@gmail.com",
+      "password": "asdfgh",
+      "phone": 8961653109,
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
